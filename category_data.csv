@@ -1,0 +1,40 @@
+label,total,num_children,short_label,row,column
+Health and Human Services,921605000,26,Health and Human Services,0,0
+Social Security Administration,885315000,2,Social Security,0,1
+Defense - Military,620259000,13,Defense,0,2
+Treasury,519490000,15,Treasury,0,3
+Agriculture,154667000,45,Agriculture,1,0
+Veterans Affairs,137381000,9,Veterans Affairs,1,1
+Office of Personnel Management,94857000,3,Personnel Management,1,2
+Labor,88993000,15,Labor,1,3
+Transportation,74280000,22,Transportation,1,4
+Other Defense Civil Programs,57416000,9,Defense Civil Programs,1,5
+Education,55685000,15,Education,1,6
+Homeland Security,45109000,23,Homeland Security,2,0
+Housing and Urban Development,44010000,14,Housing,2,1
+International Assistance Programs,37399000,16,International,2,2
+Energy,32300000,10,Energy,2,3
+State,31608000,8,State,2,4
+Justice,30023000,18,Justice,2,5
+National Aeronautics and Space Administration,17693000,2,NASA,2,6
+Interior,11357000,31,Interior,2,7
+Federal Communications Commission,9633000,2,F.C.C.,2,8
+Commerce,9239000,21,Commerce,3,0
+Environmental Protection Agency,8138000,2,E.P.A.,3,1
+Judicial Branch,7502000,13,Judicial Branch,3,2
+National Science Foundation,7470000,2,N.S.F.,3,3
+Railroad Retirement Board,7202000,3,Railroad Retirement,3,4
+Legislative Branch,4789000,20,Legislative Branch,3,5
+Corps of Engineers--Civil Works,4668000,3,Corps of Engineers,3,6
+Federal Deposit Insurance Corporation,1515000,5,F.D.I.C.,3,7
+Small Business Administration,1111000,2,Small Business,3,8
+District of Columbia,902000,5,District of Columbia,4,0
+Executive Office of the President,392000,12,Office of the President,4,1
+National Archives and Records Administration,370000,3,National Archives,4,2
+Securities Investor Protection Corporation,259000,2,S.I.P.C.,4,3
+Public Company Accounting Oversight Board,237000,2,Accounting Oversight,4,4
+Institute of Museum and Library Services,231000,2,Museum and Libraryrary Services,4,5
+Nuclear Regulatory Commission,127000,2,Nuclear Regulation,4,6
+Postal Service,78000,2,Postal Service,4,7
+Appalachian Regional Commission,64000,2,Appalachian Commission,4,8
+Other,-512596000,97,Other,4,9

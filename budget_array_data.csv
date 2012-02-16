@@ -1,0 +1,499 @@
+name,positions,id,budget_2012,change,budget_2013,department,discretion
+Benefits Programs,[object Object],302,66161000,0.14342286241139,75650000,Veterans Affairs,Mandatory
+Veterans Health Administration,[object Object],285,53981000,0.0424038087475223,56270000,Veterans Affairs,Discretionary
+"Includes: Contributions from Military Personnel, Veteran's Educational Assistance Act of 1984",[object Object],331,-478000,-0.361924686192469,-305000,Veterans Affairs,Mandatory
+Departmental Administration,[object Object],333,0,Infinity,1000000,Veterans Affairs,Mandatory
+"Includes: Third Party Collections, MCCF",[object Object],64,-2767000,0.0719190458980846,-2966000,Veterans Affairs,Discretionary
+"Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",[object Object],484,-7000,-0.142857142857143,-6000,Veterans Affairs,Net interest
+Departmental Administration,[object Object],67,7106000,0.0623416830847171,7549000,Veterans Affairs,Discretionary
+Benefits Programs,[object Object],18,156000,0.0192307692307692,159000,Veterans Affairs,Discretionary
+Veterans Health Administration,[object Object],467,29000,0.0344827586206897,30000,Veterans Affairs,Mandatory
+Interest on the Public Debt,[object Object],489,450335000,0.0481974530072057,472040000,Treasury,Net interest
+Alcohol and Tobacco Tax and Trade Bureau,[object Object],11,100000,-0.03,97000,Treasury,Discretionary
+Financial Crimes Enforcement Network,[object Object],114,111000,-0.0810810810810811,102000,Treasury,Discretionary
+Fiscal Service,[object Object],488,18903000,-0.182034597682907,15462000,Treasury,Net interest
+Departmental Offices,[object Object],485,-440000,0.0454545454545455,-460000,Treasury,Net interest
+Internal Revenue Service,[object Object],490,3068000,0.045632333767927,3208000,Treasury,Net interest
+Fiscal Service,[object Object],115,384000,-0.0625,360000,Treasury,Discretionary
+Internal Revenue Service,[object Object],382,87931000,0.0474917833301111,92107000,Treasury,Mandatory
+Alcohol and Tobacco Tax and Trade Bureau,[object Object],295,487000,-0.0431211498973306,466000,Treasury,Mandatory
+Includes: Interest Received from Credit Financing Accounts,[object Object],483,-54943000,0.0411699397557469,-57205000,Treasury,Net interest
+"Includes: Proceeds, GSE Equity Related Transactions",[object Object],329,-35544000,-0.286264911096106,-25369000,Treasury,Mandatory
+Departmental Offices,[object Object],75,753000,-1.10358565737052,-78000,Treasury,Discretionary
+Departmental Offices,[object Object],339,32904000,-0.87843423292001,4000000,Treasury,Mandatory
+Fiscal Service,[object Object],364,7814000,-0.744177117993345,1999000,Treasury,Mandatory
+Internal Revenue Service,[object Object],140,11816000,0.0799763033175355,12761000,Treasury,Discretionary
+Saint Lawrence Seaway Development Corporation,[object Object],255,32000,0.03125,33000,Transportation,Discretionary
+Includes: Pipeline Safety Fund,[object Object],63,-91000,0.835164835164835,-167000,Transportation,Discretionary
+Maritime Administration,[object Object],393,219000,-0.310502283105023,151000,Transportation,Mandatory
+Office of the Secretary,[object Object],224,295000,-0.0372881355932203,284000,Transportation,Discretionary
+Maritime Administration,[object Object],153,314000,0.0955414012738854,344000,Transportation,Discretionary
+National Highway Traffic Safety Administration,[object Object],401,800000,0.22625,981000,Transportation,Mandatory
+Federal Railroad Administration,[object Object],362,1435000,0.774216027874564,2546000,Transportation,Mandatory
+Federal Motor Carrier Safety Administration,[object Object],109,1000,-1,0,Transportation,Discretionary
+"Includes: Payment from the General Fund, Transportation Trust Fund (Highway)",[object Object],330,49740000,-1.77555287494974,-38576000,Transportation,Mandatory
+Federal Aviation Administration,[object Object],353,3515000,-0.310384068278805,2424000,Transportation,Mandatory
+Surface Transportation Board,[object Object],266,28000,0.0714285714285714,30000,Transportation,Discretionary
+Federal Aviation Administration,[object Object],97,12553000,0.0134629172309408,12722000,Transportation,Discretionary
+Office of Inspector General,[object Object],206,80000,0.05,84000,Transportation,Discretionary
+Pipeline and Hazardous Materials Safety Administration,[object Object],429,28000,0,28000,Transportation,Mandatory
+Federal Motor Carrier Safety Administration,[object Object],360,554000,0.0469314079422383,580000,Transportation,Mandatory
+Pipeline and Hazardous Materials Safety Administration,[object Object],235,172000,0.441860465116279,248000,Transportation,Discretionary
+Federal Highway Administration,[object Object],357,39947000,1.02993967006283,81090000,Transportation,Mandatory
+Federal Transit Administration,[object Object],113,150000,-0.793333333333333,31000,Transportation,Discretionary
+Federal Highway Administration,[object Object],102,1662000,-1,0,Transportation,Discretionary
+Federal Railroad Administration,[object Object],111,214000,-0.317757009345794,146000,Transportation,Discretionary
+Federal Transit Administration,[object Object],363,10396000,0.0293382070026933,10701000,Transportation,Mandatory
+Office of the Secretary,[object Object],420,550000,0.0909090909090909,600000,Transportation,Mandatory
+Administration of Foreign Affairs,[object Object],2,13356000,0.0441749026654687,13946000,State,Discretionary
+International Organizations and Conferences,[object Object],142,3379000,0.0855282627996449,3668000,State,Discretionary
+"Includes: Interest on Investments, Foreign Service National Defined Contributions Retirement Fund",[object Object],481,-2000,0,-2000,State,Net interest
+Other,[object Object],231,12424000,0.0457984546039923,12993000,State,Discretionary
+Other,[object Object],425,1000,0,1000,State,Mandatory
+Administration of Foreign Affairs,[object Object],288,1204000,0.0232558139534884,1232000,State,Mandatory
+"Includes: Federal Contributions, Foreign Service Retirement and Disability Fund",[object Object],327,-347000,0.0144092219020173,-352000,State,Mandatory
+International Commissions,[object Object],141,124000,-0.0161290322580645,122000,State,Discretionary
+Social Security Administration,[object Object],261,9453000,0.0355442716597905,9789000,Social Security Administration,Discretionary
+Social Security Administration,[object Object],447,820431000,0.0671537277357876,875526000,Social Security Administration,Mandatory
+Small Business Administration,[object Object],259,917000,0.21701199563795,1116000,Small Business Administration,Discretionary
+Includes: Disaster Loan Fund Liquidating Account,[object Object],446,1798000,-1.0027808676307,-5000,Small Business Administration,Mandatory
+"Includes: Earnings on Investments, SIPC",[object Object],497,-37000,0.0810810810810811,-40000,Securities Investor Protection Corporation,Net interest
+Securities Investor Protection Corporation,[object Object],444,419000,-0.286396181384248,299000,Securities Investor Protection Corporation,Mandatory
+Railroad Retirement Board,[object Object],436,7197000,0.0676670835070168,7684000,Railroad Retirement Board,Mandatory
+"Includes: Interest and Dividends on Non-Federal Securities, National Railroad Retirement Investment Trust",[object Object],494,-1405000,-0.540925266903915,-645000,Railroad Retirement Board,Net interest
+Railroad Retirement Board,[object Object],245,162000,0.00617283950617284,163000,Railroad Retirement Board,Discretionary
+Public Company Accounting Oversight Board,[object Object],244,1000,0,1000,Public Company Accounting Oversight Board,Discretionary
+Public Company Accounting Oversight Board,[object Object],434,228000,0.0350877192982456,236000,Public Company Accounting Oversight Board,Mandatory
+Includes: Postal Service Fund,[object Object],430,1487000,-1.1714862138534,-255000,Postal Service,Mandatory
+Postal Service,[object Object],237,330000,0.00909090909090909,333000,Postal Service,Discretionary
+Armed Forces Retirement Home,[object Object],17,83000,-0.180722891566265,68000,Other Defense Civil Programs,Discretionary
+Cemeterial Expenses,[object Object],31,46000,0,46000,Other Defense Civil Programs,Discretionary
+Educational Benefits,[object Object],345,180000,-0.0888888888888889,164000,Other Defense Civil Programs,Mandatory
+American Battle Monuments Commission,[object Object],12,77000,-0.051948051948052,73000,Other Defense Civil Programs,Discretionary
+Selective Service System,[object Object],257,24000,0,24000,Other Defense Civil Programs,Discretionary
+Retiree Health Care,[object Object],495,-7029000,0.0570493669085218,-7430000,Other Defense Civil Programs,Net interest
+Retiree Health Care,[object Object],438,9471000,0.0270298806884173,9727000,Other Defense Civil Programs,Mandatory
+Military Retirement,[object Object],395,52685000,0.0393660434658821,54759000,Other Defense Civil Programs,Mandatory
+Armed Forces Retirement Home,[object Object],300,-13000,0.153846153846154,-15000,Other Defense Civil Programs,Mandatory
+Smithsonian Institution,[object Object],260,988000,0.0597165991902834,1047000,Other,Discretionary
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],372,-77000,0.012987012987013,-78000,Other,Mandatory
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],359,-1000,0,-1000,Other,Mandatory
+Federal Housing Finance Agency,[object Object],358,224000,0.0714285714285714,240000,Other,Mandatory
+Harry S Truman Scholarship Foundation,[object Object],374,2000,0.5,3000,Other,Mandatory
+Federal Financial Institutions Examination Council Appraisal Subcommittee,[object Object],356,2000,0,2000,Other,Mandatory
+James Madison Memorial Fellowship Foundation,[object Object],386,2000,0,2000,Other,Mandatory
+Election Assistance Commission,[object Object],84,9000,0,9000,Other,Discretionary
+Includes: Export-Import Bank of the United States Liquidating Account,[object Object],350,88000,-1.15909090909091,-14000,Other,Mandatory
+Electric Reliability Organization,[object Object],346,100000,0,100000,Other,Mandatory
+Japan-United States Friendship Commission,[object Object],387,3000,0,3000,Other,Mandatory
+Includes: Environmental Dispute Resolution Fund,[object Object],397,-2000,0,-2000,Other,Mandatory
+Includes: Temporary Corporate Credit Union Stabilization Fund,[object Object],400,2000000,-1.35,-700000,Other,Mandatory
+Equal Employment Opportunity Commission,[object Object],90,360000,0.0388888888888889,374000,Other,Discretionary
+National Infrastructure Bank,[object Object],403,10000000,-1,0,Other,Mandatory
+"Includes: Export-Import Bank Loans, Negative Subsidies",[object Object],92,-666000,-0.459459459459459,-360000,Other,Discretionary
+Patient-Centered Outcomes Research Trust Fund,[object Object],427,150000,1.25333333333333,338000,Other,Mandatory
+Denali Commission,[object Object],55,25000,-0.44,14000,Other,Discretionary
+Delta Regional Authority,[object Object],54,12000,-0.0833333333333333,11000,Other,Discretionary
+Corporation for Travel Promotion,[object Object],313,100000,0,100000,Other,Mandatory
+Defense Nuclear Facilities Safety Board,[object Object],53,29000,0,29000,Other,Discretionary
+Central Intelligence Agency,[object Object],310,514000,0,514000,Other,Mandatory
+Federal Drug Control Programs,[object Object],99,334000,-0.0449101796407186,319000,Other,Discretionary
+Federal Election Commission,[object Object],100,66000,0,66000,Other,Discretionary
+Bureau of Consumer Financial Protection,[object Object],303,340000,0.317647058823529,448000,Other,Mandatory
+Court Services and Offender Supervision Agency for the District of Columbia,[object Object],50,250000,0.02,255000,Other,Discretionary
+Real Property Activities,[object Object],437,9000,0,9000,Other,Mandatory
+Federal Labor Relations Authority,[object Object],104,25000,0,25000,Other,Discretionary
+Barry Goldwater Scholarship and Excellence in Education Foundation,[object Object],301,4000,0.25,5000,Other,Mandatory
+Federal Maritime Commission,[object Object],106,24000,0.0833333333333333,26000,Other,Discretionary
+Federal Mediation and Conciliation Service,[object Object],107,46000,0.0217391304347826,47000,Other,Discretionary
+Federal Mine Safety and Health Review Commission,[object Object],108,18000,-0.111111111111111,16000,Other,Discretionary
+Corporation for Public Broadcasting,[object Object],46,444000,0.00225225225225225,445000,Other,Discretionary
+Corporation for National and Community Service,[object Object],45,1049000,0.0123927550047664,1062000,Other,Discretionary
+Consumer Product Safety Commission,[object Object],44,115000,0.0608695652173913,122000,Other,Discretionary
+Federal Trade Commission,[object Object],112,183000,-0.103825136612022,164000,Other,Discretionary
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],443,-800000,-0.1825,-654000,Other,Mandatory
+Commodity Futures Trading Commission,[object Object],41,205000,0.502439024390244,308000,Other,Discretionary
+"Committee for Purchase from People who are Blind or Severely Disabled, activities",[object Object],40,5000,0,5000,Other,Discretionary
+Allowances,[object Object],296,500000,9.976,5488000,Other,Mandatory
+Commission on Civil Rights,[object Object],39,9000,0,9000,Other,Discretionary
+Affordable Housing Program,[object Object],290,198000,0,198000,Other,Mandatory
+Commission of Fine Arts,[object Object],38,4000,-0.5,2000,Other,Discretionary
+Civilian Property Realignment Board,[object Object],37,0,Infinity,57000,Other,Discretionary
+General Activities,[object Object],121,234000,0.162393162393162,272000,Other,Discretionary
+United States Interagency Council on Homelessness,[object Object],280,3000,0.333333333333333,4000,Other,Discretionary
+United States Institute of Peace,[object Object],279,39000,-0.0512820512820513,37000,Other,Discretionary
+United States Holocaust Memorial Museum,[object Object],278,51000,0.0196078431372549,52000,Other,Discretionary
+United States Court of Appeals for Veterans Claims,[object Object],274,31000,0.032258064516129,32000,Other,Discretionary
+Chemical Safety and Hazard Investigation Board,[object Object],35,11000,0,11000,Other,Discretionary
+Harry S Truman Scholarship Foundation,[object Object],127,1000,-1,0,Other,Discretionary
+State Justice Institute,[object Object],263,5000,0,5000,Other,Discretionary
+Standard Setting Body,[object Object],448,39000,0.0256410256410256,40000,Other,Mandatory
+General Activities,[object Object],371,12000,0.0833333333333333,13000,Other,Mandatory
+Supply and Technology Activities,[object Object],450,13000,0,13000,Other,Mandatory
+Telecommunications Development Fund,[object Object],452,4000,-1,0,Other,Mandatory
+Institute of American Indian and Alaska Native Culture and Arts Development,[object Object],133,9000,0,9000,Other,Discretionary
+Tennessee Valley Authority,[object Object],453,904000,0.0287610619469027,930000,Other,Mandatory
+Recovery Act Accountability and Transparency Board,[object Object],247,28000,0.142857142857143,32000,Other,Discretionary
+Real Property Activities,[object Object],246,-1205000,-0.112863070539419,-1069000,Other,Discretionary
+Intelligence Community Management Account,[object Object],137,548000,-0.0145985401459854,540000,Other,Discretionary
+"Includes: Agency Contributions, Civil Service Retirement and Disability Fund",[object Object],456,-98897000,-0.0264315398849308,-96283000,Other,Mandatory
+United Mine Workers of America Benefit Funds,[object Object],457,35000,-0.0857142857142857,32000,Other,Mandatory
+United States Court of Appeals for Veterans Claims,[object Object],460,2000,1,4000,Other,Mandatory
+Includes: United States Enrichment Corporation Fund,[object Object],462,-5000,-0.2,-4000,Other,Mandatory
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],468,-5000,0,-5000,Other,Mandatory
+Privacy and Civil Liberties Oversight Board,[object Object],240,0,Infinity,1000,Other,Discretionary
+Presidio Trust,[object Object],239,12000,-1,0,Other,Discretionary
+International Trade Commission,[object Object],145,80000,0.0375,83000,Other,Discretionary
+Broadcasting Board of Governors,[object Object],20,751000,-0.0412782956058589,720000,Other,Discretionary
+Architectural and Transportation Barriers Compliance Board,[object Object],16,7000,0,7000,Other,Discretionary
+Legal Services Corporation,[object Object],148,348000,0.155172413793103,402000,Other,Discretionary
+Other Commissions and Boards,[object Object],232,1000,0,1000,Other,Discretionary
+Advisory Council on Historic Preservation,[object Object],6,6000,0,6000,Other,Discretionary
+"Includes: Interest, Investor Protection Fund",[object Object],496,-3000,-0.666666666666667,-1000,Other,Net interest
+Marine Mammal Commission,[object Object],152,3000,0,3000,Other,Discretionary
+Administrative Conference of the United States,[object Object],4,3000,0,3000,Other,Discretionary
+Merit Systems Protection Board,[object Object],154,40000,-0.025,39000,Other,Discretionary
+Office of the Federal Coordinator for Alaska Natural Gas Transportation Projects,[object Object],219,1000,2,3000,Other,Discretionary
+Office of Special Counsel,[object Object],216,19000,0,19000,Other,Discretionary
+Office of Navajo and Hopi Indian Relocation,[object Object],212,8000,0,8000,Other,Discretionary
+"Includes: FOASI, Interest Received by Trust Funds",[object Object],498,-180392000,-0.0392644906647745,-173309000,Other,Net interest
+Office of Government Ethics,[object Object],202,14000,-0.0714285714285714,13000,Other,Discretionary
+Morris K. Udall and Stewart L. Udall Foundation,[object Object],160,6000,0,6000,Other,Discretionary
+Occupational Safety and Health Review Commission,[object Object],192,12000,0,12000,Other,Discretionary
+Nuclear Waste Technical Review Board,[object Object],190,3000,0,3000,Other,Discretionary
+Northern Border Regional Commission,[object Object],188,1000,0,1000,Other,Discretionary
+National Labor Relations Board,[object Object],174,278000,0.0539568345323741,293000,Other,Discretionary
+National Transportation Safety Board,[object Object],185,102000,0,102000,Other,Discretionary
+National Capital Planning Commission,[object Object],166,8000,0,8000,Other,Discretionary
+National Council on Disability,[object Object],167,3000,0,3000,Other,Discretionary
+National Credit Union Administration,[object Object],168,1000,0,1000,Other,Discretionary
+National Endowment for the Arts,[object Object],169,146000,0.0547945205479452,154000,Other,Discretionary
+National Endowment for the Humanities,[object Object],170,146000,0.0547945205479452,154000,Other,Discretionary
+National Railroad Passenger Corporation Office of Inspector General,[object Object],180,21000,0.0476190476190476,22000,Other,Discretionary
+National Mediation Board,[object Object],175,13000,0.0769230769230769,14000,Other,Discretionary
+Neighborhood Reinvestment Corporation,[object Object],187,215000,-0.00930232558139535,213000,Other,Discretionary
+"Includes: Earnings on Investments, Postal Service Retiree Health Benefits Fund",[object Object],493,-1790000,-0.00949720670391061,-1773000,Office of Personnel Management,Net interest
+Office of Personnel Management,[object Object],213,237000,-0.0168776371308017,233000,Office of Personnel Management,Discretionary
+Office of Personnel Management,[object Object],416,92297000,0.0444218121932457,96397000,Office of Personnel Management,Mandatory
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],412,-1000,0,-1000,Nuclear Regulatory Commission,Mandatory
+Nuclear Regulatory Commission,[object Object],189,128000,0,128000,Nuclear Regulatory Commission,Discretionary
+National Science Foundation,[object Object],181,7032000,0.0483503981797497,7372000,National Science Foundation,Discretionary
+National Science Foundation,[object Object],409,98000,0,98000,National Science Foundation,Mandatory
+National Archives and Records Administration,[object Object],399,1000,0,1000,National Archives and Records Administration,Mandatory
+"Includes: Interest and Dividends on Non-Federal Securities, National Archives Gift Fund",[object Object],492,-1000,0,-1000,National Archives and Records Administration,Net interest
+National Archives and Records Administration,[object Object],165,376000,-0.0159574468085106,370000,National Archives and Records Administration,Discretionary
+National Aeronautics and Space Administration,[object Object],162,17770000,-0.00326392796848621,17712000,National Aeronautics and Space Administration,Discretionary
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],398,-19000,0,-19000,National Aeronautics and Space Administration,Mandatory
+Senate,[object Object],445,30000,0,30000,Legislative Branch,Mandatory
+Architect of the Capitol,[object Object],15,555000,0.185585585585586,658000,Legislative Branch,Discretionary
+Botanic Garden,[object Object],19,12000,0,12000,Legislative Branch,Discretionary
+Library of Congress,[object Object],491,-4000,-0.25,-3000,Legislative Branch,Net interest
+Capitol Police,[object Object],30,340000,0.1,374000,Legislative Branch,Discretionary
+Joint Items,[object Object],146,19000,-0.0526315789473684,18000,Legislative Branch,Discretionary
+Government Printing Office,[object Object],125,127000,0,127000,Legislative Branch,Discretionary
+Architect of the Capitol,[object Object],299,-8000,0,-8000,Legislative Branch,Mandatory
+Library of Congress,[object Object],150,588000,0.0272108843537415,604000,Legislative Branch,Discretionary
+Government Accountability Office,[object Object],123,511000,0.0293542074363992,526000,Legislative Branch,Discretionary
+United States Tax Court,[object Object],284,52000,0.0192307692307692,53000,Legislative Branch,Discretionary
+Office of Compliance,[object Object],197,4000,0,4000,Legislative Branch,Discretionary
+House of Representatives,[object Object],129,1226000,0,1226000,Legislative Branch,Discretionary
+Library of Congress,[object Object],392,10000,0.1,11000,Legislative Branch,Mandatory
+Legislative Branch Boards and Commissions,[object Object],391,1000,0,1000,Legislative Branch,Mandatory
+Senate,[object Object],258,868000,0.0483870967741935,910000,Legislative Branch,Discretionary
+House of Representatives,[object Object],376,102000,0.0196078431372549,104000,Legislative Branch,Mandatory
+Congressional Budget Office,[object Object],43,44000,0.0227272727272727,45000,Legislative Branch,Discretionary
+United States Tax Court,[object Object],466,1000,0,1000,Legislative Branch,Mandatory
+Legislative Branch Boards and Commissions,[object Object],149,60000,0.6,96000,Legislative Branch,Discretionary
+Mine Safety and Health Administration,[object Object],158,372000,0,372000,Labor,Discretionary
+Bureau of Labor Statistics,[object Object],24,542000,0.0166051660516605,551000,Labor,Discretionary
+Office of Labor Management Standards,[object Object],208,41000,0.024390243902439,42000,Labor,Discretionary
+"Includes: Payments from the General Fund for Administrative Cost for Extended Unemployment Benefit, Unemployment Trust Fund",[object Object],326,-49079000,-0.58147069011186,-20541000,Labor,Mandatory
+Employee Benefits Security Administration,[object Object],85,183000,0,183000,Labor,Discretionary
+Departmental Management,[object Object],72,537000,-0.037243947858473,517000,Labor,Discretionary
+Occupational Safety and Health Administration,[object Object],191,565000,0,565000,Labor,Discretionary
+Employment and Training Administration,[object Object],347,171826000,-0.446399264372097,95123000,Labor,Mandatory
+Wage and Hour Division,[object Object],469,35000,0,35000,Labor,Mandatory
+Office of Federal Contract Compliance Programs,[object Object],200,105000,0.00952380952380952,106000,Labor,Discretionary
+Labor,[object Object],480,-25000,-1.16,4000,Labor,Net interest
+Wage and Hour Division,[object Object],286,227000,0.0484581497797357,238000,Labor,Discretionary
+Employment and Training Administration,[object Object],86,10550000,-0.120473933649289,9279000,Labor,Discretionary
+Office of Workers' Compensation Programs,[object Object],422,2392000,0.00209030100334448,2397000,Labor,Mandatory
+Office of Workers' Compensation Programs,[object Object],229,118000,0.0338983050847458,122000,Labor,Discretionary
+Office of Justice Programs,[object Object],207,2053000,-4.14125669751583,-6449000,Justice,Discretionary
+Office of Justice Programs,[object Object],415,4717000,1.01611193555226,9510000,Justice,Mandatory
+Drug Enforcement Administration,[object Object],343,305000,0.0983606557377049,335000,Justice,Mandatory
+"Includes: Interest and Profit on Investment, Department of Justice Assets Forfeiture Fund",[object Object],479,-8000,0.375,-11000,Justice,Net interest
+Federal Prison System,[object Object],361,-3000,0,-3000,Justice,Mandatory
+United States Parole Commission,[object Object],281,13000,0,13000,Justice,Discretionary
+General Administration,[object Object],122,2206000,-0.757932910244787,534000,Justice,Discretionary
+Radiation Exposure Compensation,[object Object],435,120000,0,120000,Justice,Mandatory
+"Includes: Fees for Bankruptcy Oversight, U.S. Trustees System",[object Object],61,-267000,0,-267000,Justice,Discretionary
+Legal Activities and U.S. Marshals,[object Object],390,3924000,-0.331039755351682,2625000,Justice,Mandatory
+"Bureau of Alcohol, Tobacco, Firearms, and Explosives",[object Object],21,1152000,-0.00954861111111111,1141000,Justice,Discretionary
+Federal Bureau of Investigation,[object Object],98,8108000,-0.00468672915638875,8070000,Justice,Discretionary
+"Includes: Diversion Control Fee Account, DEA",[object Object],325,-442000,0.0678733031674208,-472000,Justice,Mandatory
+Interagency Law Enforcement,[object Object],139,527000,-0.00379506641366224,525000,Justice,Discretionary
+Legal Activities and U.S. Marshals,[object Object],147,4314000,0.246870653685675,5379000,Justice,Discretionary
+Federal Prison System,[object Object],110,6599000,0.0375814517351114,6847000,Justice,Discretionary
+Drug Enforcement Administration,[object Object],80,2037000,-0.000490918016691213,2036000,Justice,Discretionary
+National Security Division,[object Object],183,87000,0.0344827586206897,90000,Justice,Discretionary
+"Courts of Appeals, District Courts, and other Judicial Services",[object Object],315,1029000,0.0534499514091351,1084000,Judicial Branch,Mandatory
+"Courts of Appeals, District Courts, and other Judicial Services",[object Object],51,6270000,0.0279106858054226,6445000,Judicial Branch,Discretionary
+"Includes: Advances and Reimbursements, Judiciary Information Technology Fund",[object Object],388,-548000,0.0766423357664234,-590000,Judicial Branch,Mandatory
+Supreme Court of the United States,[object Object],451,2000,0,2000,Judicial Branch,Mandatory
+Supreme Court of the United States,[object Object],265,81000,0.0740740740740741,87000,Judicial Branch,Discretionary
+United States Court of Appeals for the Federal Circuit,[object Object],273,30000,0.0333333333333333,31000,Judicial Branch,Discretionary
+Federal Judicial Center,[object Object],103,27000,0.037037037037037,28000,Judicial Branch,Discretionary
+Judicial Retirement Funds,[object Object],389,243000,0.181069958847737,287000,Judicial Branch,Mandatory
+United States Court of International Trade,[object Object],275,19000,0.105263157894737,21000,Judicial Branch,Discretionary
+Administrative Office of the United States Courts,[object Object],5,83000,0.0240963855421687,85000,Judicial Branch,Discretionary
+United States Court of International Trade,[object Object],461,2000,0,2000,Judicial Branch,Mandatory
+United States Sentencing Commission,[object Object],283,17000,0,17000,Judicial Branch,Discretionary
+United States Court of Appeals for the Federal Circuit,[object Object],459,3000,0,3000,Judicial Branch,Mandatory
+Trade and Development Agency,[object Object],268,50000,0.16,58000,International Assistance Programs,Discretionary
+Millennium Challenge Corporation,[object Object],157,898000,0,898000,International Assistance Programs,Discretionary
+Agency for International Development,[object Object],292,-1157000,-0.696629213483146,-351000,International Assistance Programs,Mandatory
+Overseas Private Investment Corporation,[object Object],426,144000,-0.361111111111111,92000,International Assistance Programs,Mandatory
+African Development Foundation,[object Object],7,30000,-0.2,24000,International Assistance Programs,Discretionary
+International Monetary Programs,[object Object],383,17000,-1,0,International Assistance Programs,Mandatory
+International Security Assistance,[object Object],384,-145000,0.193103448275862,-173000,International Assistance Programs,Mandatory
+Overseas Private Investment Corporation,[object Object],233,-198000,-0.0303030303030303,-192000,International Assistance Programs,Discretionary
+Military Sales Program,[object Object],396,7706000,0.850116792110044,14257000,International Assistance Programs,Mandatory
+Peace Corps,[object Object],234,375000,0,375000,International Assistance Programs,Discretionary
+Peace Corps,[object Object],428,-1000,0,-1000,International Assistance Programs,Mandatory
+Agency for International Development,[object Object],470,-1000,0,-1000,International Assistance Programs,Net interest
+Inter-American Foundation,[object Object],138,23000,-0.217391304347826,18000,International Assistance Programs,Discretionary
+Agency for International Development,[object Object],8,5741000,-0.109388608256401,5113000,International Assistance Programs,Discretionary
+Multilateral Assistance,[object Object],161,3012000,0.0713811420982736,3227000,International Assistance Programs,Discretionary
+International Security Assistance,[object Object],143,13993000,0.00443078682198242,14055000,International Assistance Programs,Discretionary
+Bureau of Safety and Environmental Enforcement,[object Object],28,76000,0.263157894736842,96000,Interior,Discretionary
+"Includes: Central Valley Project Restoration Fund, Revenue",[object Object],62,-104000,-0.125,-91000,Interior,Discretionary
+National Indian Gaming Commission,[object Object],402,17000,0.0588235294117647,18000,Interior,Mandatory
+"Includes: Receipts from Mineral Leasing, Public Lands",[object Object],328,-7680000,-0.225911458333333,-5945000,Interior,Mandatory
+Bureau of Indian Affairs and Bureau of Indian Education,[object Object],22,2532000,-0.0023696682464455,2526000,Interior,Discretionary
+Insular Affairs,[object Object],136,63000,-0.0476190476190476,60000,Interior,Discretionary
+Department-Wide Programs,[object Object],65,653000,0.388973966309342,907000,Interior,Discretionary
+"Includes: Earnings on Investments, Abandoned Mine Reclamation Fund",[object Object],482,-103000,0.0194174757281553,-105000,Interior,Net interest
+United States Fish and Wildlife Service,[object Object],276,1476000,-0.0873983739837398,1347000,Interior,Discretionary
+United States Geological Survey,[object Object],277,1068000,0.0318352059925094,1102000,Interior,Discretionary
+Office of Inspector General,[object Object],205,49000,-0.0204081632653061,48000,Interior,Discretionary
+Department-Wide Programs,[object Object],332,451000,0.00221729490022173,452000,Interior,Mandatory
+Bureau of Reclamation,[object Object],27,1048000,-0.0324427480916031,1014000,Interior,Discretionary
+Office of the Special Trustee for American Indians,[object Object],226,152000,-0.0394736842105263,146000,Interior,Discretionary
+National Park Service,[object Object],178,2610000,-0.0122605363984674,2578000,Interior,Discretionary
+Office of the Solicitor,[object Object],225,66000,-0.0151515151515152,65000,Interior,Discretionary
+National Park Service,[object Object],408,374000,0.0882352941176471,407000,Interior,Mandatory
+Departmental Offices,[object Object],74,262000,-0.152671755725191,222000,Interior,Discretionary
+Bureau of Ocean Energy Management,[object Object],26,60000,0.05,63000,Interior,Discretionary
+Bureau of Reclamation,[object Object],306,176000,-0.25,132000,Interior,Mandatory
+Bureau of Land Management,[object Object],305,179000,0.167597765363128,209000,Interior,Mandatory
+Bureau of Indian Affairs and Bureau of Indian Education,[object Object],304,213000,-0.492957746478873,108000,Interior,Mandatory
+Office of the Special Trustee for American Indians,[object Object],421,428000,0.0350467289719626,443000,Interior,Mandatory
+Insular Affairs,[object Object],381,520000,-0.00961538461538462,515000,Interior,Mandatory
+Central Utah Project,[object Object],34,30000,-0.3,21000,Interior,Discretionary
+Office of Surface Mining Reclamation and Enforcement,[object Object],419,739000,-0.273342354533153,537000,Interior,Mandatory
+United States Geological Survey,[object Object],464,1000,0,1000,Interior,Mandatory
+United States Fish and Wildlife Service,[object Object],463,954000,0.0440251572327044,996000,Interior,Mandatory
+Bureau of Land Management,[object Object],25,1129000,0,1129000,Interior,Discretionary
+Departmental Offices,[object Object],338,4009000,-0.447493140434023,2215000,Interior,Mandatory
+Office of Surface Mining Reclamation and Enforcement,[object Object],218,150000,-0.06,141000,Interior,Discretionary
+Institute of Museum and Library Services,[object Object],135,232000,0,232000,Institute of Museum and Library Services,Discretionary
+"Includes: Gifts and Donations, Institute of Museum Services",[object Object],380,-1000,0,-1000,Institute of Museum and Library Services,Mandatory
+Housing Programs,[object Object],377,4716000,0.628710771840543,7681000,Housing and Urban Development,Mandatory
+Fair Housing and Equal Opportunity,[object Object],93,72000,-0.0555555555555556,68000,Housing and Urban Development,Discretionary
+Housing Programs,[object Object],130,-3440000,1.13866279069767,-7357000,Housing and Urban Development,Discretionary
+Government National Mortgage Association,[object Object],373,140000,-1,0,Housing and Urban Development,Mandatory
+Public and Indian Housing Programs,[object Object],433,20000,-1,0,Housing and Urban Development,Mandatory
+Community Planning and Development,[object Object],42,6701000,-0.00462617519773168,6670000,Housing and Urban Development,Discretionary
+Management and Administration,[object Object],151,1777000,0.0343275182892515,1838000,Housing and Urban Development,Discretionary
+Public and Indian Housing Programs,[object Object],243,34030000,0.0334410813987658,35168000,Housing and Urban Development,Discretionary
+Includes: All Other General Fund Proprietary Receipts Including Budget Clearing Accounts,[object Object],324,-2255000,-0.991574279379157,-19000,Housing and Urban Development,Mandatory
+Office of Lead Hazard Control and Healthy Homes,[object Object],209,120000,-0.00833333333333333,119000,Housing and Urban Development,Discretionary
+Policy Development and Research,[object Object],236,46000,0.130434782608696,52000,Housing and Urban Development,Discretionary
+Community Planning and Development,[object Object],312,15009000,-0.933306682657072,1001000,Housing and Urban Development,Mandatory
+Government National Mortgage Association,[object Object],124,-80000,-0.1875,-65000,Housing and Urban Development,Discretionary
+"Includes: FHA-general and Special Risk, Negative Subsidies",[object Object],60,-955000,0.2,-1146000,Housing and Urban Development,Discretionary
+United States Coast Guard,[object Object],272,8914000,-0.0667489342607135,8319000,Homeland Security,Discretionary
+Customs and Border Protection,[object Object],316,1575000,0.0317460317460317,1625000,Homeland Security,Mandatory
+Customs and Border Protection,[object Object],52,10159000,0.0204744561472586,10367000,Homeland Security,Discretionary
+Includes: International Registered Traveler Program Fund,[object Object],59,-14000,0,-14000,Homeland Security,Discretionary
+Transportation Security Administration,[object Object],269,5425000,-0.0588018433179723,5106000,Homeland Security,Discretionary
+Departmental Management and Operations,[object Object],73,1135000,0,1135000,Homeland Security,Discretionary
+"Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",[object Object],478,-12000,0,-12000,Homeland Security,Net interest
+Citizenship and Immigration Services,[object Object],311,2968000,-0.035377358490566,2863000,Homeland Security,Mandatory
+Includes: Immigration Examination Fee,[object Object],323,-6635000,0.0185380557648832,-6758000,Homeland Security,Mandatory
+Transportation Security Administration,[object Object],454,250000,0,250000,Homeland Security,Mandatory
+Immigration and Customs Enforcement,[object Object],378,312000,0,312000,Homeland Security,Mandatory
+United States Secret Service,[object Object],282,1665000,-0.0384384384384384,1601000,Homeland Security,Discretionary
+Office of the Inspector General,[object Object],222,141000,0.0212765957446809,144000,Homeland Security,Discretionary
+Domestic Nuclear Detection Office,[object Object],79,289000,0.134948096885813,328000,Homeland Security,Discretionary
+Federal Emergency Management Agency,[object Object],101,10646000,-0.0598346796919031,10009000,Homeland Security,Discretionary
+United States Secret Service,[object Object],465,245000,0.0204081632653061,250000,Homeland Security,Mandatory
+Immigration and Customs Enforcement,[object Object],131,5526000,-0.0349258052841115,5333000,Homeland Security,Discretionary
+Federal Law Enforcement Training Center,[object Object],105,271000,-0.0479704797047971,258000,Homeland Security,Discretionary
+National Protection and Programs Directorate,[object Object],179,1381000,0.00144822592324403,1383000,Homeland Security,Discretionary
+United States Coast Guard,[object Object],458,1654000,-0.00846432889963724,1640000,Homeland Security,Mandatory
+Science and Technology,[object Object],256,668000,0.244011976047904,831000,Homeland Security,Discretionary
+Federal Emergency Management Agency,[object Object],355,1013000,-1,0,Homeland Security,Mandatory
+Citizenship and Immigration Services,[object Object],36,101000,0.376237623762376,139000,Homeland Security,Discretionary
+National Institutes of Health,[object Object],173,30702000,0,30702000,Health and Human Services,Discretionary
+"Includes: Federal Contributions, FSMI Fund",[object Object],322,-319845000,0.166102330816489,-372972000,Health and Human Services,Mandatory
+National Institutes of Health,[object Object],406,167000,0,167000,Health and Human Services,Mandatory
+Centers for Medicare and Medicaid Services,[object Object],309,1092383000,0.0835174110179305,1183616000,Health and Human Services,Mandatory
+Centers for Disease Control and Prevention,[object Object],308,1055000,0.0900473933649289,1150000,Health and Human Services,Mandatory
+Food and Drug Administration,[object Object],116,2506000,0.00438946528332003,2517000,Health and Human Services,Discretionary
+Agency for Healthcare Research and Quality,[object Object],291,12000,0,12000,Health and Human Services,Mandatory
+Administration on Aging,[object Object],289,23000,0,23000,Health and Human Services,Mandatory
+Administration for Children and Families,[object Object],287,33650000,0.0142050520059435,34128000,Health and Human Services,Mandatory
+Departmental Management,[object Object],337,35000,5.71428571428571,235000,Health and Human Services,Mandatory
+Indian Health Service,[object Object],379,158000,0,158000,Health and Human Services,Mandatory
+Program Support Center,[object Object],432,571000,0.0683012259194396,610000,Health and Human Services,Mandatory
+Substance Abuse and Mental Health Services Administration,[object Object],264,3347000,-0.0582611293695847,3152000,Health and Human Services,Discretionary
+Health Resources and Services Administration,[object Object],128,6228000,-0.0226396917148362,6087000,Health and Human Services,Discretionary
+Indian Health Service,[object Object],132,4306000,0.0271713887598699,4423000,Health and Human Services,Discretionary
+Health Resources and Services Administration,[object Object],375,2202000,0.136239782016349,2502000,Health and Human Services,Mandatory
+Departmental Management,[object Object],71,1099000,-0.078252957233849,1013000,Health and Human Services,Discretionary
+Centers for Medicare and Medicaid Services,[object Object],33,6582000,-0.874810088119113,824000,Health and Human Services,Discretionary
+Centers for Disease Control and Prevention,[object Object],32,5732000,-0.115840893230984,5068000,Health and Human Services,Discretionary
+Program Support Center,[object Object],242,36000,-0.277777777777778,26000,Health and Human Services,Discretionary
+Substance Abuse and Mental Health Services Administration,[object Object],449,88000,0.193181818181818,105000,Health and Human Services,Mandatory
+Office of the Inspector General,[object Object],221,50000,0.18,59000,Health and Human Services,Discretionary
+"Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",[object Object],477,-101000,0.0693069306930693,-108000,Health and Human Services,Net interest
+Administration on Aging,[object Object],3,1469000,0.311095983662355,1926000,Health and Human Services,Discretionary
+Food and Drug Administration,[object Object],365,2000,0,2000,Health and Human Services,Mandatory
+Administration for Children and Families,[object Object],1,16489000,-0.0187397659045424,16180000,Health and Human Services,Discretionary
+Deposit Insurance,[object Object],76,0,-Infinity,-35000,Federal Deposit Insurance Corporation,Discretionary
+Orderly Liquidation,[object Object],424,627000,1.41626794258373,1515000,Federal Deposit Insurance Corporation,Mandatory
+Deposit Insurance,[object Object],340,-45000,-1,0,Federal Deposit Insurance Corporation,Mandatory
+FSLIC Resolution,[object Object],370,356000,-1,0,Federal Deposit Insurance Corporation,Mandatory
+FDIC_Office of Inspector General,[object Object],96,45000,-0.222222222222222,35000,Federal Deposit Insurance Corporation,Discretionary
+"Includes: Earnings on Federal Investments, Universal Service Fund",[object Object],487,-22000,1.22727272727273,-49000,Federal Communications Commission,Net interest
+Federal Communications Commission,[object Object],354,9382000,0.0319761244937114,9682000,Federal Communications Commission,Mandatory
+Office of Management and Budget,[object Object],210,89000,0.0337078651685393,92000,Executive Office of the President,Discretionary
+Office of National Drug Control Policy,[object Object],211,25000,-0.08,23000,Executive Office of the President,Discretionary
+Office of Science and Technology Policy,[object Object],215,5000,0.2,6000,Executive Office of the President,Discretionary
+Office of Administration,[object Object],193,113000,0.0176991150442478,115000,Executive Office of the President,Discretionary
+Office of the United States Trade Representative,[object Object],227,51000,0.0392156862745098,53000,Executive Office of the President,Discretionary
+National Security Council and Homeland Security Council,[object Object],182,13000,0,13000,Executive Office of the President,Discretionary
+Council of Economic Advisers,[object Object],48,4000,0,4000,Executive Office of the President,Discretionary
+Special Assistance to the President and the Official Residence of the Vice President,[object Object],262,5000,0,5000,Executive Office of the President,Discretionary
+Executive Residence at the White House,[object Object],91,14000,0,14000,Executive Office of the President,Discretionary
+Unanticipated Needs,[object Object],271,6000,0.166666666666667,7000,Executive Office of the President,Discretionary
+Council on Environmental Quality and Office of Environmental Quality,[object Object],49,3000,0,3000,Executive Office of the President,Discretionary
+The White House,[object Object],267,57000,0,57000,Executive Office of the President,Discretionary
+Environmental Protection Agency,[object Object],89,8450000,-0.0125443786982249,8344000,Environmental Protection Agency,Discretionary
+"Includes: Recoveries, Hazardous Substance Superfund",[object Object],349,-137000,0.503649635036496,-206000,Environmental Protection Agency,Mandatory
+Energy Programs,[object Object],348,-99000,-71.7373737373737,7003000,Energy,Mandatory
+Energy Programs,[object Object],87,9248000,0.0433607266435986,9649000,Energy,Discretionary
+"Includes: General Fund Payment - Defense, Decontamination and Decommissioning Fund",[object Object],58,-26000,17.8076923076923,-489000,Energy,Discretionary
+Power Marketing Administration,[object Object],238,85000,0,85000,Energy,Discretionary
+Environmental and Other Defense Activities,[object Object],88,5826000,0.0655681428081016,6208000,Energy,Discretionary
+"Includes: Earnings on Investments, Nuclear Waste Disposal Fund",[object Object],476,-1563000,0.0818937939859245,-1691000,Energy,Net interest
+Includes: Nuclear Waste Disposal Fund,[object Object],321,-2445000,-0.425357873210634,-1405000,Energy,Mandatory
+National Nuclear Security Administration,[object Object],176,11000000,0.0487272727272727,11536000,Energy,Discretionary
+Departmental Administration,[object Object],66,168000,-0.0119047619047619,166000,Energy,Discretionary
+Power Marketing Administration,[object Object],431,649000,0.907550077041603,1238000,Energy,Mandatory
+Departmental Management,[object Object],336,61333000,-0.975005298941842,1533000,Education,Mandatory
+Departmental Management,[object Object],70,609000,0.0361247947454844,631000,Education,Discretionary
+Institute of Education Sciences,[object Object],134,594000,0.0471380471380471,622000,Education,Discretionary
+Office of Special Education and Rehabilitative Services,[object Object],418,3122000,0.0349135169762972,3231000,Education,Mandatory
+"Includes: Federal Direct Student Loan Program, Negative Subsidies",[object Object],320,-43118000,-0.238461895264159,-32836000,Education,Mandatory
+Office of Postsecondary Education,[object Object],417,423000,-0.0283687943262411,411000,Education,Mandatory
+Office of Elementary and Secondary Education,[object Object],198,21941000,-0.069276696595415,20421000,Education,Discretionary
+Office of English Language Acquisition,[object Object],199,732000,0,732000,Education,Discretionary
+"Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",[object Object],475,-20000,0,-20000,Education,Net interest
+Office of Vocational and Adult Education,[object Object],228,1736000,0.000576036866359447,1737000,Education,Discretionary
+Office of Federal Student Aid,[object Object],414,27492000,-0.507893205296086,13529000,Education,Mandatory
+Office of Federal Student Aid,[object Object],201,25578000,0.00922667917741809,25814000,Education,Discretionary
+Office of Innovation and Improvement,[object Object],203,1528000,1.83507853403141,4332000,Education,Discretionary
+Office of Postsecondary Education,[object Object],214,2125000,0.509176470588235,3207000,Education,Discretionary
+Office of Special Education and Rehabilitative Services,[object Object],217,12538000,-0.0157122348061892,12341000,Education,Discretionary
+District of Columbia General and Special Payments,[object Object],342,572000,-0.0157342657342657,563000,District of Columbia,Mandatory
+District of Columbia General and Special Payments,[object Object],78,128000,0.203125,154000,District of Columbia,Discretionary
+District of Columbia Courts,[object Object],77,288000,-0.0625,270000,District of Columbia,Discretionary
+District of Columbia Courts,[object Object],341,10000,-0.1,9000,District of Columbia,Mandatory
+District of Columbia General and Special Payments,[object Object],486,-83000,0.132530120481928,-94000,District of Columbia,Net interest
+Defense--Military Programs,[object Object],474,-1000,0,-1000,Defense - Military,Net interest
+Operation and Maintenance,[object Object],230,283974000,-0.0395951742060893,272730000,Defense - Military,Discretionary
+Defense--Military Programs,[object Object],319,-1844000,-0.044468546637744,-1762000,Defense - Military,Mandatory
+Trust Funds,[object Object],455,417000,-0.41726618705036,243000,Defense - Military,Mandatory
+Procurement,[object Object],241,120516000,-0.0996133293504597,108511000,Defense - Military,Discretionary
+"Research, Development, Test, and Evaluation",[object Object],248,71902000,-0.0312647770576618,69654000,Defense - Military,Discretionary
+Revolving and Management Funds,[object Object],249,3076000,-0.14629388816645,2626000,Defense - Military,Discretionary
+Family Housing,[object Object],351,7000,-1,0,Defense - Military,Mandatory
+Operation and Maintenance,[object Object],423,897000,0.0178372352285396,913000,Defense - Military,Mandatory
+Military Construction,[object Object],155,11367000,-0.157913257675728,9572000,Defense - Military,Discretionary
+Family Housing,[object Object],94,1683000,-0.0190136660724896,1651000,Defense - Military,Discretionary
+Military Personnel,[object Object],156,153112000,-0.0257327969068394,149172000,Defense - Military,Discretionary
+Military Personnel,[object Object],394,5376000,0.292782738095238,6950000,Defense - Military,Mandatory
+Includes: Rivers and Harbors Contributed Funds,[object Object],314,-45000,-0.0666666666666667,-42000,Corps of Engineers--Civil Works,Mandatory
+"Includes: General Fund Proprietary Interest Receipts, not Otherwise Classified",[object Object],471,-21000,0,-21000,Corps of Engineers--Civil Works,Net interest
+Corps of Engineers--Civil Works,[object Object],47,6725000,-0.296505576208178,4731000,Corps of Engineers--Civil Works,Discretionary
+International Trade Administration,[object Object],385,5000,0,5000,Commerce,Mandatory
+National Telecommunications and Information Administration,[object Object],184,41000,0.146341463414634,47000,Commerce,Discretionary
+"Includes: Fisheries Finance, Negative Subsidies",[object Object],57,-7000,-0.714285714285714,-2000,Commerce,Discretionary
+Economic Development Administration,[object Object],344,0,-Infinity,-1000,Commerce,Mandatory
+Departmental Management,[object Object],69,91000,-0.021978021978022,89000,Commerce,Discretionary
+Bureau of the Census,[object Object],29,887000,0.0935738444193912,970000,Commerce,Discretionary
+National Institute of Standards and Technology,[object Object],172,761000,0.130091984231275,860000,Commerce,Discretionary
+"Includes: Spectrum Auction Receipts, Public Safety Trust Fund",[object Object],318,-17000,70.9411764705882,-1223000,Commerce,Mandatory
+National Oceanic and Atmospheric Administration,[object Object],177,5014000,0.00917431192660551,5060000,Commerce,Discretionary
+National Institute of Standards and Technology,[object Object],405,0,Infinity,1000000,Commerce,Mandatory
+U.S. Patent and Trademark Office,[object Object],270,-1000,1,-2000,Commerce,Discretionary
+Departmental Management,[object Object],335,5000,-0.8,1000,Commerce,Mandatory
+Minority Business Development Agency,[object Object],159,30000,-0.0333333333333333,29000,Commerce,Discretionary
+National Oceanic and Atmospheric Administration,[object Object],407,58000,2.03448275862069,176000,Commerce,Mandatory
+Bureau of Industry and Security,[object Object],23,101000,0.0099009900990099,102000,Commerce,Discretionary
+Bureau of the Census,[object Object],307,23000,0.304347826086957,30000,Commerce,Mandatory
+Economic and Statistical Analysis,[object Object],81,96000,0.0416666666666667,100000,Commerce,Discretionary
+Economic Development Administration,[object Object],82,458000,-0.519650655021834,220000,Commerce,Discretionary
+National Telecommunications and Information Administration,[object Object],410,-4000,-317.5,1266000,Commerce,Mandatory
+International Trade Administration,[object Object],144,455000,0.136263736263736,517000,Commerce,Discretionary
+"Includes: Interest Earned, Environmental Improvement and Restoration Fund",[object Object],473,-1000,4,-5000,Commerce,Net interest
+Includes: Miscellaneous Trust Funds,[object Object],298,0,-Infinity,-1000,Appalachian Regional Commission,Mandatory
+Appalachian Regional Commission,[object Object],14,68000,-0.0441176470588235,65000,Appalachian Regional Commission,Discretionary
+Risk Management Agency,[object Object],439,3489000,1.66322728575523,9292000,Agriculture,Mandatory
+Office of Chief Economist,[object Object],413,1000,-1,0,Agriculture,Mandatory
+Economic Research Service,[object Object],83,78000,0,78000,Agriculture,Discretionary
+Office of the Secretary,[object Object],223,16000,0.0625,17000,Agriculture,Discretionary
+Office of the General Counsel,[object Object],220,39000,0.153846153846154,45000,Agriculture,Discretionary
+Animal and Plant Health Inspection Service,[object Object],297,282000,-0.0141843971631206,278000,Agriculture,Mandatory
+Natural Resources Conservation Service,[object Object],411,3463000,0.0436038117239388,3614000,Agriculture,Mandatory
+Agricultural Marketing Service,[object Object],293,1153000,0.0867302688638335,1253000,Agriculture,Mandatory
+Departmental Management,[object Object],68,315000,0.0793650793650794,340000,Agriculture,Discretionary
+Farm Service Agency,[object Object],352,9618000,0.12559783738823,10826000,Agriculture,Mandatory
+Food Safety and Inspection Service,[object Object],118,1004000,-0.00796812749003984,996000,Agriculture,Discretionary
+Risk Management Agency,[object Object],250,75000,-1,0,Agriculture,Discretionary
+Office of Inspector General,[object Object],204,86000,0.0348837209302326,89000,Agriculture,Discretionary
+Rural Business_Cooperative Service,[object Object],251,114000,-1.28947368421053,-33000,Agriculture,Discretionary
+Rural Development,[object Object],252,182000,0.137362637362637,207000,Agriculture,Discretionary
+Rural Housing Service,[object Object],253,1521000,-0.0230111768573307,1486000,Agriculture,Discretionary
+Rural Utilities Service,[object Object],442,-30000,16.6,-528000,Agriculture,Mandatory
+Rural Housing Service,[object Object],441,240000,-3.36666666666667,-568000,Agriculture,Mandatory
+"Includes: Earnings on Investments, Native American Institutions Endowment Fund",[object Object],472,-6000,0,-6000,Agriculture,Net interest
+Rural Business_Cooperative Service,[object Object],440,136000,-0.0367647058823529,131000,Agriculture,Mandatory
+National Institute of Food and Agriculture,[object Object],404,134000,-0.962686567164179,5000,Agriculture,Mandatory
+Food and Nutrition Service,[object Object],117,7420000,-0.00566037735849057,7378000,Agriculture,Discretionary
+Forest Service,[object Object],369,708000,-0.175141242937853,584000,Agriculture,Mandatory
+"Includes: Deposits of Fees, Inspection and Grading of Farm Products, AMS",[object Object],317,-1930000,-0.639896373056995,-695000,Agriculture,Mandatory
+Rural Utilities Service,[object Object],254,587000,-0.0170357751277683,577000,Agriculture,Discretionary
+Office of Communications,[object Object],196,8000,0.125,9000,Agriculture,Discretionary
+Foreign Agricultural Service,[object Object],119,1823000,-0.0323642347778387,1764000,Agriculture,Discretionary
+Office of Chief Economist,[object Object],194,11000,0.0909090909090909,12000,Agriculture,Discretionary
+Foreign Agricultural Service,[object Object],368,-316000,-0.129746835443038,-275000,Agriculture,Mandatory
+National Agricultural Statistics Service,[object Object],163,159000,0.125786163522013,179000,Agriculture,Discretionary
+National Appeals Division,[object Object],164,13000,0.0769230769230769,14000,Agriculture,Discretionary
+Agricultural Research Service,[object Object],294,31000,-0.129032258064516,27000,Agriculture,Mandatory
+Departmental Management,[object Object],334,22000,-1,0,Agriculture,Mandatory
+Food Safety and Inspection Service,[object Object],367,10000,0,10000,Agriculture,Mandatory
+Animal and Plant Health Inspection Service,[object Object],13,820000,-0.0670731707317073,765000,Agriculture,Discretionary
+Agricultural Research Service,[object Object],10,1095000,0.00730593607305936,1103000,Agriculture,Discretionary
+Agricultural Marketing Service,[object Object],9,83000,-0.0602409638554217,78000,Agriculture,Discretionary
+Natural Resources Conservation Service,[object Object],186,1067000,-0.732895970009372,285000,Agriculture,Discretionary
+"Grain Inspection, Packers and Stockyards Administration",[object Object],126,38000,0.0526315789473684,40000,Agriculture,Discretionary
+Food and Nutrition Service,[object Object],366,106508000,0.0117737634731663,107762000,Agriculture,Mandatory
+National Institute of Food and Agriculture,[object Object],171,1204000,0.0332225913621262,1244000,Agriculture,Discretionary
+Forest Service,[object Object],120,4608000,0.0523003472222222,4849000,Agriculture,Discretionary
+Farm Service Agency,[object Object],95,1774000,-0.076662908680947,1638000,Agriculture,Discretionary
+"Includes: Rural Electrification and Telephone Loans, Negative Subsidies",[object Object],56,-139000,0.913669064748201,-266000,Agriculture,Discretionary
+Office of Civil Rights,[object Object],195,21000,2,63000,Agriculture,Discretionary

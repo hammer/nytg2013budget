@@ -1,0 +1,1 @@
+Data that powers the [interactive graphic](http://www.nytimes.com/interactive/2012/02/13/us/politics/2013-budget-proposal-graphic.html) from the New York Times for exploring Obama’s 2013 Federal Budget Proposal.
